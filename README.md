@@ -68,6 +68,8 @@ Twilio sends an automated voice call & SMS with accident details.
 
 The accident details, including location, insights, and video links, are displayed on a dashboard.
 
+## ARMS DASHBOARD
+![Screenshot 2025-03-30 101951](https://github.com/user-attachments/assets/9b207a86-610e-472d-b321-e9cb433bab44)
 
 ## 🛠 Setup & Installation
 🔹 Prerequisites
