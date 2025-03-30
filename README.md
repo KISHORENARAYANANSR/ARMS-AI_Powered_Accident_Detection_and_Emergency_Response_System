@@ -136,8 +136,11 @@ drive.mount('/content/drive')
 
 ### Future Enhancements
 🔹 Real-Time Integration – Deploy on CCTV cameras for instant accident detection
+
 🔹 Geolocation Tracking – Pinpoint accident locations for better emergency response
+
 🔹 Automated Report Generation – Generate accident reports for legal & insurance purposes
+
 🔹 Multi-Language Voice Alerts – Support for regional languages in Twilio calls
 
 ###  🤝 Contributors
