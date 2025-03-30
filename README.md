@@ -71,6 +71,9 @@ The accident details, including location, insights, and video links, are display
 ## ARMS DASHBOARD
 ![Screenshot 2025-03-30 101951](https://github.com/user-attachments/assets/9b207a86-610e-472d-b321-e9cb433bab44)
 
+## Download the Model
+Due to GitHub file size limitations, you can download the model from [Google Drive](https://drive.google.com/file/d/1YqBaP-45o0wa1SfFAM1eCTl6APf2H2KP/view?usp=sharing).
+
 ## 🛠 Setup & Installation
 🔹 Prerequisites
 
